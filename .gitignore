@@ -18,6 +18,7 @@ docs/_build/
 __pycache__
 .env_file
 deploy_flask_app_venv/
+.vscode/
 
 # Coverage reports
 htmlcov/
